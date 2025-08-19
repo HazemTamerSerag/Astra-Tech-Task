@@ -1,6 +1,6 @@
 # Blog Management Android App
 
-A modern Android application for managing blog posts with full API operations, built using Jetpack Compose and following MVVM architecture pattern.
+A modern Android application for managing blog posts with API operations, built using Jetpack Compose and following MVVM architecture pattern.
 
 ## Features
 
