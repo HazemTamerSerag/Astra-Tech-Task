@@ -58,16 +58,22 @@ app/src/main/java/com/example/app/
 ### Core Dependencies:
 Retrofit 3.0.0
 Why: Industry standard for making REST API calls, with excellent support for Kotlin Coroutines.
+
 OkHttp 5.1.0 (with Logging Interceptor)
 Why: A powerful HTTP client with built-in logging for requests/responses, making debugging easier.
+
 Coil 2.7.0
 Why: A modern, lightweight image loading library optimized for Jetpack Compose.
+
 Jetpack Compose Navigation 2.9.3
 Why: Type safe navigation library designed specifically for Jetpack Compose screens.
+
 Lifecycle ViewModel Compose 2.9.2
 Why: Provides lifecycle aware state management for UI layers.
+
 Kotlin Coroutines 1.10.2
 Why: Simplifies asynchronous programming and background task handling in a clean and efficient way.
+
 Material 3 (1.3.2)
 Why: The latest UI component library from Google, following the modern Material Design System.
 
